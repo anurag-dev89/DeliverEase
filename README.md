@@ -270,7 +270,7 @@ Python · pandas · NumPy · Matplotlib · seaborn · scikit-learn · XGBoost ·
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/DeliverEase.git
+git clone https://github.com/anurag-dev89/DeliverEase.git
 cd DeliverEase
 
 # 2. (Optional) Make a virtual environment
